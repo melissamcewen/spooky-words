@@ -55,7 +55,3 @@ It's OK for a word to be duplicated between the objects and predicates lists so 
 
 Within a given file, the words should be alphabetized, distinct, and contain only lower-case alphabetic ASCII characters.  These constraints are checked at build time.
 
-Made by [Glitch](https://glitch.com/)
--------------------
-
-\ ゜o゜)ノ
