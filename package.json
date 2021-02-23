@@ -1,6 +1,6 @@
 {
   "name": "spooky-words",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A spooky word list, packaged into an NPM module for easy use.",
   "author": "Melissa McEwen <mgmcewen@gmail.com>",
   "main": "index.js",
