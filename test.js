@@ -1,5 +1,5 @@
 const test = require('ava');
-const friendlyWords = require('./index');
+const friendlyWords = require('./index.cjs');
 const lists = ["predicates","objects","teams","collections"];
 
 
