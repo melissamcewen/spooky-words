@@ -3,6 +3,9 @@ Spooky Words
 
 This package returns the curated lists of extremely scary words, as used in headstone names and ghost stories.
 
+Originally based on [`friendly-words`](https://www.npmjs.com/package/friendly-words) and made collaboratively by  myself, Steph Monette, Allyson Lubimir, Anjali Patel, Greg Weil, and Esteban Molina-Estolano.
+
+
 Usage
 ---
 

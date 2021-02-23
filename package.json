@@ -1,26 +1,26 @@
 {
-  "name": "friendly-words",
-  "version": "1.1.10",
-  "description": "The Glitch word list, packaged into an NPM module for easy use.",
-  "author": "Glitch <help@glitch.com>",
+  "name": "spooky-words",
+  "version": "1.0.0",
+  "description": "A spooky word list, packaged into an NPM module for easy use.",
+  "author": "Melissa McEwen <mgmcewen@gmail.com>",
   "main": "index.js",
   "scripts": {
     "test": "ava test.js",
     "build": "node build.js",
     "start": "node server.js"
   },
-  "homepage": "https://glitch.com/~friendly-words",
+  "homepage": "https://github.com/melissamcewen/spooky-words",
   "dependencies": {},
   "devDependencies": {
     "ava": "^3.15.0"
   },
   "repository": {
-    "url": "https://github.com/FogCreek/friendly-words"
+    "url": "https://github.com/melissamcewen/spooky-words"
   },
   "license": "MIT",
   "keywords": [
-    "node",
-    "glitch",
-    "express"
+    "spooky",
+    "language",
+    "halloween"
   ]
 }
