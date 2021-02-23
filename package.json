@@ -5,9 +5,7 @@
   "author": "Melissa McEwen <mgmcewen@gmail.com>",
   "main": "index.js",
   "scripts": {
-    "test": "ava test.js",
-    "build": "node build.js",
-    "start": "node server.js"
+    "test": "ava test.js"
   },
   "homepage": "https://github.com/melissamcewen/spooky-words",
   "dependencies": {},

@@ -10,18 +10,18 @@ Usage
 ---
 
 ```
-const friendlyWords = require('friendly-words');
+const spookyWords = require('spooky-words');
 
-friendlyWords.predicates;
+spookyWords.predicates;
 > ["warp","windy","paper","shrouded","iridescent","sage",...
 
-friendlyWords.objects;
+spookyWords.objects;
 > ["millennium","report","guardian","match","wallaby","turnip",...
 
-friendlyWords.teams;
+spookyWords.teams;
 > ["troupe","group","posse","coven","team","alliance",...
 
-friendlyWords.collections;
+spookyWords.collections;
 > ["album","assortment","bricolage","collection","compilation","melange",...
 ```
 
