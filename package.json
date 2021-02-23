@@ -10,8 +10,22 @@
   "homepage": "https://github.com/melissamcewen/spooky-words",
   "dependencies": {},
   "exports": {
+    "." : {
     "import": "./wrapper.mjs",
     "require": "./index.cjs"
+    },
+    "./objects": {
+       "import": "./esm/objects.mjs"
+    },
+    "./predicates": {
+       "import": "./esm/predicates.mjs"
+    },
+    "./teams": {
+       "import": "./esm/teams.mjs"
+    },
+    "./collections": {
+       "import": "./esm/collections.mjs"
+    }
   },
   "devDependencies": {
     "ava": "^3.15.0"
